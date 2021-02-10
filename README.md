@@ -3,7 +3,12 @@
 # CORDOVA-ET-Hardware
 Hardware parts for the CORDOVA-ET system.
 
+## Software
+The code for the nodes can be found [here](https://github.com/OpenAgriTech/CORDOVA-ET-node)
+
 
 ## License
 
 Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0). See LICENSE.md for more info.
+
+IAS-CSIC & University of Cordoba, 2021
